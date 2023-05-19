@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: white;
+    background-color: rgb(135, 10, 35);
+}
+
+.col {
+    height: 150px;
+    border: 10px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+h1 {
+    font-size: 100px;
+    margin: 50px 0;
+}
